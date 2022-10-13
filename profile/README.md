@@ -3,4 +3,4 @@
 <br/>  
 
 > # Current Projects
-> There are currently no public projects that AIΩ is engaged in. This list will be updated.
+> **IonAuth - Fully Decentralized Web3 Software Licensing System**
